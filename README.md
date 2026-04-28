@@ -1,6 +1,7 @@
 #📝 AI Poetry Generator – Custom GPT-2 Text Generation
 AI Poetry Generator is a custom-built generative AI system that produces original poetry using a transformer-based language model. This project demonstrates the creation and fine-tuning of a GPT-2 architecture from scratch on a curated poetry dataset. Despite limited compute, the system achieves fluent and stylistically rich poetic generation, showcasing core understanding of language modeling and creative AI applications.
 
+
 #🌟 Features
 🧠 Built GPT-2 model architecture from scratch
 📚 Fine-tuned on a curated poetry dataset
@@ -23,6 +24,7 @@ Trained the model with cross-entropy loss and scheduled learning rate
 Text Generation
 Generated poetry using sampling techniques like temperature scaling and top-k filtering
 
+
 #🌍Impact
 🎨 Promotes Creative Expression with AI Empowers writers, students, and artists to explore poetic creativity through the lens of AI-generated content.
 
@@ -31,6 +33,7 @@ Generated poetry using sampling techniques like temperature scaling and top-k fi
 📚 Educational Tool Offers hands-on insight into building and fine-tuning transformer models, useful for AI/NLP education and research.
 
 🧪 Pushes Boundaries of Generative AI Highlights how even with limited compute, personalized models can be built for domain-specific creativity.
+
 
 #💡 Use Cases
 ✍️ Poetry Writing Assistant Generates poetic inspiration or rough drafts for human poets, students, or content creators.
